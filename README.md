@@ -2,10 +2,10 @@
 # InterviewPanel
 This console application is designed to help manage interview panels by allowing users to add candidates, display candidate information, and perform other related tasks.
 ## Features
--Add candidates to the interview panel with their name, age, qualification, team and contact details through Receptionist
--Add interviewer to the interview panel with their name, team ,contact details through Hr
--Add Hr details to the interview panel and Hr can Manage the Interviewer like add and Interview Schedule 
--Add Receptionist to the interview panel and They can manage candidate like add, update 
+- Add candidates to the interview panel with their name, age, qualification, team and contact details through Receptionist
+- Add interviewer to the interview panel with their name, team ,contact details through Hr
+- Add Hr details to the interview panel and Hr can Manage the Interviewer like add and Interview Schedule 
+- Add Receptionist to the interview panel and They can manage candidate like add, update 
 
 ## Requirements
 Java 
